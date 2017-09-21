@@ -1,2 +1,2 @@
-# testproject-1
+# Testproject-1
 Only testing GitHub and documentation
